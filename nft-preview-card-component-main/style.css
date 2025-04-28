@@ -73,7 +73,7 @@ body {
   opacity: 1;
 }
 
-.card-container h2 {
+.card-container h1 {
   color: var(--color-white);
   margin: 25px 0 20px;
   font-size: 1.32rem;
@@ -81,7 +81,7 @@ body {
   display: inline-block;
 }
 
-.card-container h2:hover {
+.card-container h1:hover {
   color: var(--color1);
 }
 
